@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Harryanto Winsen a.k.a HWinsen
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning to develop my own game
-- 💞️ I’m looking to collaborate on any project
-- 📫 You can reach me at inquiries@hwinsen.com
+- 👋 Hi, I’m Harryanto Winsen
+- 👀 I’m interested in game development, especially gameplay mechanics
+- 🌱 I’m currently developing my own game
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I4D3LHV)
+# Released games:
+- [Eco Toss](https://play.google.com/store/apps/details?id=com.EcoTeam.EcoToss)
 
 <!---
 HWinsen/HWinsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
