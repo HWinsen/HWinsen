@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harryanto Winsen
-- 👀 I’m interested in game development, especially gameplay mechanics
+- 👀 I’m interested in game development
 - 🌱 I’m currently developing my own game
 
 # Released games:
